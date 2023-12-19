@@ -1,4 +1,0 @@
-//this is a c file
-int main(){
-printf("这是一个测试项目，目前没有什么有用的东西")
-}
